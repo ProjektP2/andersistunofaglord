@@ -10,7 +10,7 @@ namespace Random
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Anders ist uno faglord!");
+            Console.WriteLine("Anders ist uno faglord!!!");
             Console.ReadKey();
         }
     }
